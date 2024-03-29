@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">AgriSasa</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="post">Post</string>
+    <string name="shop">Shop</string>
+    <string name="chat">Chat</string>
+    <string name="agricultural_insurance">Agricultural Insurance</string>
+    <string name="arrow_back">arrow_back</string>
+    <string name="crop_insurance">Crop insurance</string>
+    <string name="climate_change_or_the_weather_is_unpredictable_protect_your_crops_against_natural_calamities_such_as_pests_lack_of_rainfall_floods_and_theft">Climate change or the weather is unpredictable. Protect your crops against natural calamities such as pests, lack of rainfall,floods and theft</string>
+    <string name="insurance_plan_starting_from_ksh_1000">Insurance plan starting from Ksh. 1000</string>
+    <string name="plan_validity_1_year">PLAN VALIDITY : 1 YEAR</string>
+    <string name="transactions">Transactions</string>
+    <string name="we_use_linear_regression_machine_learning_algorithm_to_predict_your_farm_output">We use Linear Regression Machine Learning Algorithm to predict Your Farm Output.</string>
+    <string name="hello_buyer_get_affordable_rates_for_market_produce_directly_from_the_farmer">Hello buyer, get affordable rates for market produce, directly from the farmer</string>
+    <string name="insurance">Insurance</string>
+    <string name="new_technology">New Technology</string>
+    <string name="hire_equipment">Hire Equipment</string>
+    <string name="account">Account</string>
+    <string name="farm_input_needed">Farm input needed</string>
+    <string name="task_name">Task name</string>
+    <string name="syd">Syd</string>
+    <string name="or_view_available_crop_cycles">Or View available crop cycles ?</string>
+
+    <string-array name="cycle_types">
+        <item>Crop Cycle</item>
+        <item>Service Cycle</item>
+    </string-array>
+
+    <string-array name="crop_list">
+        <item>Coriander</item>
+        <item>Capsicum Geva</item>
+        <item>Cucumber Mydas </item>
+        <item>Tomatoes Anna</item>
+        <item>Cucumber English</item>
+        <item>Cucumber Bologna</item>
+        <item>Capsicum</item>
+        <item>Spinach</item>
+        <item>Bullet Chillies</item>
+    </string-array>
+
+
+    <string-array name="farm_block_list">
+        <item>Select Farm/Block ID</item>
+        <item>F0001</item>
+        <item>F0002</item>
+        <item>F0003</item>
+        <item>F0004</item>
+    </string-array>
+
+    <string-array name="priorities">
+        <item>Low</item>
+        <item>High</item>
+        <item>Medium</item>
+        <item>Urgent</item>
+    </string-array>
+
+    <string-array name="statuses">
+        <item>UPCOMING</item>
+        <item>IN_PROGRESS</item>
+        <item>COMPLETED</item>
+        <item>OVERDUE</item>
+    </string-array>
+    <string-array name="season">
+        <item>WINTER</item>
+        <item>SUMMER</item>
+        <item>AUTUMN</item>
+        <item>SPRING</item>
+    </string-array>
+
+    <string-array name="task_names">
+        <item>Seedling Acquisition</item>
+        <item>Media Acquisition</item>
+        <item>Media washing and Treatment</item>
+        <item>Preparation of grow trays (washing and sterilizing)/potting of media</item>
+        <item>Loading of treated media and seedlings</item>
+        <item>Seed sowing</item>
+        <item>Watering and fertigation</item>
+        <item>Hardening</item>
+        <item>Land preparation</item>
+        <item>Manure application</item>
+        <item>Bed making/gypsum application</item>
+    </string-array>
+    <integer-array name="task_durations">
+        <item>2</item> <!-- Seedling Acquisition -->
+        <item>30</item> <!-- Media Acquisition -->
+        <item>21</item> <!-- Media washing and Treatment -->
+        <item>0</item> <!-- Preparation of grow trays (washing and sterilizing) -->
+        <item>10</item> <!-- Loading of treated media and seedlings -->
+        <item>0</item> <!-- Watering and Fertigation -->
+        <item>1</item> <!-- Hardening -->
+        <item>1</item> <!-- Media treatment -->
+        <item>2</item> <!-- Transplanting -->
+        <item>7</item> <!-- Weeks 1 -->
+        <item>0</item> <!-- 1.25L of Vegegrow B+A and 68% Nitric acid for pH correction and N supplementation -->
+        <item>2</item> <!-- Nutrient recycling -->
+        <item>0</item> <!-- 1.25L of Vegegrow B+A and 68% Nitric acid for pH correction and N supplementation -->
+        <item>2</item> <!-- Flushing with plain water and 50% Hydrogen Peroxide -->
+        <item>0</item> <!-- 1.25L of Vegegrow B+A 68% Nitric acid for pH correction and N supplementation -->
+        <item>7</item> <!-- Weeks 2 -->
+        <item>1</item> <!-- 2.5L of Bud Booster and 68% Nitric acid for pH correction and N supplementation -->
+        <item>0</item> <!-- Nutrient recycling -->
+        <item>1</item> <!-- 1.25L of Vegegrow B+A and 68% Nitric acid for pH correction and N supplementation -->
+        <item>1</item> <!-- Nutrient recycling -->
+        <item>0</item> <!-- 1.25L of Vegegrow B+A and 68% Nitric acid for pH correction and N supplementation -->
+        <item>1</item> <!-- Nutrient recycling -->
+        <item>7</item> <!-- Weeks 3 -->
+        <item>0</item> <!-- Flushing with plain water and 50% Hydrogen Peroxide -->
+        <item>1</item> <!-- 2.5L of Bud Booster and 68% Nitric acid for pH correction and N supplementation -->
+    </integer-array>
+
+</resources>

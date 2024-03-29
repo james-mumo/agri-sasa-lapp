@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeDashboardFragment2"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/applyInsuranceFragment"
+        android:title="@string/insurance"
+        android:icon="@drawable/ic_insurance"/>
+    <item
+        android:id="@+id/newFarmingTechnologyFragment"
+        android:title="@string/new_technology"
+        android:icon="@drawable/ic_new_tech"/>
+    <item
+        android:id="@+id/hireFarmEquipmentsFragment"
+        android:title="@string/hire_equipment"
+        android:icon="@drawable/ic_shopping_bag"/>
+    <item
+        android:id="@+id/yourAccountFragment"
+        android:title="@string/account"
+        android:icon="@drawable/ic_chat_1"/>
+</menu>
